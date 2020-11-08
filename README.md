@@ -1,11 +1,3 @@
 # QA_Trainee
-A
-B
-C
-D
-E
-I'm New Here.
+How can see older data in your repository after changes by me.
 
-I'm again here.
-New Line
-New Element
