@@ -1,5 +1,2 @@
 # QA_Trainee
-How can see older data in your repository after changes by me.
-
-facing problem...
-pls solve...
+Deleted By Ravi
